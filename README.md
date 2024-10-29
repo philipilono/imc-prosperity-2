@@ -1,8 +1,8 @@
 # IMC Prosperity 2
 
-![image](https://github.com/user-attachments/assets/ebe1eefd-7670-4676-b677-d0ffbef7fd01 | width = 100) ![image](https://github.com/user-attachments/assets/d16151d5-8c5d-46db-a0a0-1556235b3c30)
+<img src= "https://github.com/user-attachments/assets/ebe1eefd-7670-4676-b677-d0ffbef7fd01" width="500"> <img src=  "https://github.com/user-attachments/assets/d16151d5-8c5d-46db-a0a0-1556235b3c30" width="500">
 
-IMC Prosperity 2 Trade Challenge, hosted by https://www.imc.com/eu, was the second installment of a global algorithmic trading competition with over 9000 teams worldwide. We achieved a global ranking of 29th and a national (UK) ranking of 2nd. 
+[IMC Prosperity 2](https://prosperity.imc.com/) Trade Challenge, hosted by [IMC Trading](https://www.imc.com/eu), was the second installment of a global algorithmic trading competition with over 9000 teams worldwide. We achieved a global ranking of 29th and a national (UK) ranking of 2nd. 
 
 Over the 15(+2) day challenge we were met with a variety of manual and algorithmic trading challenges. This was a very fun and interesting competition, below are the strategies we used for each round:
 R1: Market Making
