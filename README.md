@@ -5,11 +5,12 @@
 [IMC Prosperity 2](https://prosperity.imc.com/) Trade Challenge, hosted by [IMC Trading](https://www.imc.com/eu), was the second installment of a global algorithmic trading competition with over 9000 teams worldwide. We achieved a global ranking of 29th and a national (UK) ranking of 2nd. 
 
 Over the 15(+2) day challenge we were met with a variety of manual and algorithmic trading challenges. This was a very fun and interesting competition, below are the strategies we used for each round:
-R1: Market Making
-R2: Arbitrage
-R3: ETF Arb/Pairs Trading
-R4: Options Trading
-R5: Signals
+- R1: Market Making
+- R2: Arbitrage
+- R3: ETF Arb/Pairs Trading
+- R4: Options Trading
+- R5: Signals
+
 
 ## Round 1
 The algo forecasts short-term price changes for starfruit using a predictive trading method that employs linear regression on previous prices. In order to profit from expected market moves, it bases its bid and ask orders on this projection, setting them just below the anticipated price. For amethysts, the algo uses a market-making approach, aiming to make money off of the bid-ask spread. It places orders at slightly modified bid and ask prices, undercutting current orders. 
