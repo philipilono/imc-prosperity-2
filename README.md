@@ -1,7 +1,6 @@
 # IMC Prosperity 2
 
-![image](https://github.com/user-attachments/assets/ebe1eefd-7670-4676-b677-d0ffbef7fd01)
-![image](https://github.com/user-attachments/assets/d16151d5-8c5d-46db-a0a0-1556235b3c30)
+![image](https://github.com/user-attachments/assets/ebe1eefd-7670-4676-b677-d0ffbef7fd01) ![image](https://github.com/user-attachments/assets/d16151d5-8c5d-46db-a0a0-1556235b3c30)
 
 IMC Prosperity 2 Trade Challenge, hosted by https://www.imc.com/eu, was the second installment of a global algorithmic trading competition with over 9000 teams worldwide. We achieved a global ranking of 29th and a national (UK) ranking of 2nd. 
 
